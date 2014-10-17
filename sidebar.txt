@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pxm:home|Door43 (pxm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pxm|d43-pxm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pxm/archive/master.zip|d43-pxm.zip]]
+
+**Recent Changes**
+{{changes>ns = pxm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pxm|Ethnologue data]]
+
